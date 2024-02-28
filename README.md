@@ -2,7 +2,7 @@
 #### I am Computer Science student at SRB IAU
 I love Computer Science and Engineering and strive to explore it as much as possible within this field.
 - 🎯 Skills: Python / SQL
-- 📫 How to reach me: Telegram: @itzCloner 
+- 📫 Telegram: @itzCloner 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Parsalimi)  
 
