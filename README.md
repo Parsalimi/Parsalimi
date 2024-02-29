@@ -9,13 +9,16 @@ I'm a passionate Computer Science student at SRB IAU, deeply fascinated by the w
 
 ## GitHub Activity
 <div align="center">
-    ![GitHub streak stats](https://streak-stats.demolab.com/?user=Parsalimi)  
+    ![GitHub streak stats](https://streak-stats.demolab.com/?user=Parsalimi)
 </div>
+
 
 ## Connect with Me
 <div align="center">
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Parsalimi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/parsalimi/)
+    <a href="https://github.com/Parsalimi"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"></a>
+    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/parsalimi/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>
 </div>
+
 
 ## Wakatime Stats
 <div align="center">
