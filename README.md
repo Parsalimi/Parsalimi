@@ -8,10 +8,14 @@ I'm a passionate Computer Science student at SRB IAU, deeply fascinated by the w
 - 📫 How to reach me: You can find me on Telegram as [@itzCloner](https://t.me/itzCloner).
 
 ## GitHub Activity
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Parsalimi)  
+<div align="center">
+    ![GitHub streak stats](https://streak-stats.demolab.com/?user=Parsalimi)  
+</div>
 
 ## Connect with Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Parsalimi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/parsalimi/)
+<div align="center">
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Parsalimi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/parsalimi/)
+</div>
 
 ## Wakatime Stats
 <div align="center">
