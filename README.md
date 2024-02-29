@@ -9,8 +9,9 @@ I'm a passionate Computer Science student at SRB IAU, deeply fascinated by the w
 
 ## GitHub Activity
 <div align="center">
-    ![GitHub streak stats](https://streak-stats.demolab.com/?user=Parsalimi)
+    <img src="https://streak-stats.demolab.com/?user=Parsalimi" alt="GitHub streak stats">
 </div>
+
 
 
 ## Connect with Me
